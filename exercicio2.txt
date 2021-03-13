@@ -1,2 +1,3 @@
 Eu sei sair do vim porque eu nunca entrei
 sei mais ou menos
+Mentira, eu sei sair sim!! ctrl C :wq :)
